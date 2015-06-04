@@ -8,3 +8,5 @@ meteor-platform
 iron:router
 reactive-var
 coffeescript
+twbs:bootstrap
+rzymek:fullcalendar

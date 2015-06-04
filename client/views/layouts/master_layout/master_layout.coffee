@@ -5,10 +5,8 @@ Template.MasterLayout.events
 #
 
 Template.MasterLayout.helpers
-# Example:
-#   items: ->
-#
 
+    
 # MasterLayout: Lifecycle Hooks
 Template.MasterLayout.created = ->
 
