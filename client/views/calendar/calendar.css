@@ -1,0 +1,7 @@
+div.fc-view-container {
+	overflow: scroll;
+}
+
+div.fc-view {
+	width: 100%;
+}
